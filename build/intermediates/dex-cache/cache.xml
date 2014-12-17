@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/menaitech/Desktop/DMS/dms/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/menaitech/Desktop/DMS/dms/build/intermediates/pre-dexed/debug/classes-edf6b40e8c4be414e5ddf8e62378ed87c2c719b4.jar" />
+    </item>
+    <item
+        jar="/Users/menaitech/Desktop/DMS/dms/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/menaitech/Desktop/DMS/dms/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-b092c54696d77af74c88cbb46d009740d905661a.jar" />
+    </item>
+    <item
+        jar="/Users/menaitech/Desktop/DMS/dms/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="435a97b8fe906a305176ab0a76e324734e76f711">
+        <dex dex="/Users/menaitech/Desktop/DMS/dms/build/intermediates/pre-dexed/debug/classes-df82144217f5db9383168c104c37ec944a29ae83.jar" />
+    </item>
+    <item
+        jar="/Users/menaitech/Desktop/DMS/dms/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/Users/menaitech/Desktop/DMS/dms/build/intermediates/pre-dexed/debug/classes-57c809c8bb13c2bfb7757a95d0a43a05454afe08.jar" />
+    </item>
+    <item
+        jar="/Volumes/Mena Itech/programs/programs/adt-bundle-mac-x86_64-20130729/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/menaitech/Desktop/DMS/dms/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-8aa8e10ef807708697a270795a61c055c4e18a18.jar" />
+    </item>
+    <item
+        jar="/Users/menaitech/Desktop/DMS/dms/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="/Users/menaitech/Desktop/DMS/dms/build/intermediates/pre-dexed/debug/classes-5e6e1bccf6b8dc9c0b59f491a8f84fd7cbd8c74c.jar" />
+    </item>
+    <item
+        jar="/Users/menaitech/Desktop/DMS/dms/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/menaitech/Desktop/DMS/dms/build/intermediates/pre-dexed/debug/classes-ed25ededfa8c8c06735e45753e85977c874398f3.jar" />
+    </item>
+
+</items>
